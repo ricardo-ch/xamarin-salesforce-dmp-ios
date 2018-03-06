@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Ricardo.Salesforce.DMP.iOS</id>
+        <version>4.2.0</version>
+        <description>Xamarin Binding Library - Salesforce DMP iOS SDK</description>
+        <authors>Jerome HASCOET</authors>
+        <owners>ricardo.ch AG</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Salesforce DMP iOS</title>
+        <releaseNotes>Salesforce DMP iOS SDK v4.2.0</releaseNotes>
+        <summary>Xamarin Binding Library - Salesforce DMP iOS SDK</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/ricardo-ch/xamarin-launchdarkly-ios/</projectUrl>
+        <copyright>Copyright (c) 2018 ricardo.ch AG</copyright>
+        <tags>Xamarin.iOS, salesforce, dmp, krux</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Ricardo.Salesforce.DMP.iOS/bin/Release/Ricardo.Salesforce.DMP.iOS.dll" target="lib/Xamarin.iOS10/Ricardo.Salesforce.DMP.iOS.dll" />
+    </files>
+</package>
